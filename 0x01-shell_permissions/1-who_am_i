@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-dscli> whoami
-=======
-id -un
->>>>>>> 77ad492fcde9bf6c381702c475ae39d02f3f60e2
+dscli>whoami
